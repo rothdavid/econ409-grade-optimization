@@ -6,4 +6,4 @@ This paper presents a model to optimize GPA outcomes by allocating study time un
 - Random variables representing exam difficulty and mistakes
 - Monte Carlo simulation to assess study strategy effectiveness
 
-📄 [Download the paper](./grade_optimization.pdf)
+📄 [Download the paper](grade-optimization.pdf)
